@@ -1,11 +1,11 @@
 <?php
     define('DB_HOST', 'localhost');
-    define('DB_USER', 'mvc');
-    define('DB_PASS', 'Jbts2013');
-    define('DB_NAME', 'mvc');
-    define('DB_PORT', '3309');
+    define('DB_USER', '');
+    define('DB_PASS', '');
+    define('DB_NAME', '');
+    define('DB_PORT', '3306');
 
     //App Root
     define('APPROOT', dirname(dirname(__FILE__)));
-    define('URLROOT', 'http://localhost/mvc/');
-    define('SITENAME', 'MVC');
+    define('URLROOT', '');
+    define('SITENAME', '');
